@@ -17,7 +17,7 @@ This code is a pipeline which integrates the three input, and performs a non-neg
 2. `GSE75688_ESTIMATEpurity.txt`: Tumour purity estimates for the GSE75688 breast cancer cohort generated using the ESTIMATE algorithm, extrapolated by comparing to TCGA tumours.
 3. `GSE75688_pooledOrTumor_TPM_normalized_CIBERSORT.txt`: Immune cell subpopulation proportion estimates for the GSE75688 breast cancer cohort generated using the CIBERSORT algorithm.
 4. `GSE75688_pooledOrTumor_TPM_normalized.txt`: Transcript per million (TPM) expression data from pooled cells/bulk tumour samples of the GSE75688 breast cancer cohort. This is a test input to the RESPECTEx pipeline.
-`GSE75688_RESPECTEx.txt`: Expected output from RESPECTEx analysis of the GSE75688 breast cancer cohort.
+5. `GSE75688_RESPECTEx.txt`: Expected output from RESPECTEx analysis of the GSE75688 breast cancer cohort.
 
 Please see `RESPECTEx.R` for instructions on how to run the analysis.
 
