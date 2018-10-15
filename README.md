@@ -1,6 +1,8 @@
 # RESPECTEx
 Reconstituting Specific Cell-type Expression
 
+Written by Joseph Ng, October 2018
+
 RESPECTEx takes as input:
 1. tumour bulk gene expression data, 
 2. estimates of tumour purity of the tumour samples(obtained from e.g. tumour purity estimation algorithms, or IHC-based pathological assessments), and
