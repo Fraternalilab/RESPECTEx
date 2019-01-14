@@ -25,4 +25,4 @@ Please see `RESPECTEx.R` for instructions on how to run the analysis.
 RESPECTEx is distributed and licensed under GNU General Public License v3.0. Please see file "LICENSE" for details.
 
 ## To use, please cite:
-Ng JCF, Quist J, Grigoriadis A, Malim MH & Fraternali F. Pan-cancer transcriptomic analysis dissects immune and proliferative functions of APOBEC3 cytidine deaminases. <em>In revision</em>, 2018.
+Ng JCF, Quist J, Grigoriadis A, Malim MH & Fraternali F. Pan-cancer transcriptomic analysis dissects immune and proliferative functions of APOBEC3 cytidine deaminases. <em>Nucleic Acids Research</em>, gky1316, 2019.
